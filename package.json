@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "Utility to sort json files",
 	"main": "index.js",
+  "bin": "./index.js",
 	"author": {
 		"name": "Vitaliy Markitanov",
 		"url": "https://twitter.com/basilio100"
