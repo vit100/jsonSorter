@@ -12,8 +12,7 @@
 		"url": "https://github.com/vit100/jsonSorter"
 	},
 	"scripts": {
-		"start": "node index.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node index.js"
 	},
 	"keywords": ["JSON", "SORT", "jsonSorter"],
 	"license": "ISC",
