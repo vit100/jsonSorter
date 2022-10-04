@@ -1,9 +1,9 @@
 {
 	"name": "@vit100/jsonsorter",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Utility to sort json files",
 	"main": "index.js",
-  "bin": "./index.js",
+	"bin": "./index.js",
 	"author": {
 		"name": "Vitaliy Markitanov",
 		"url": "https://twitter.com/basilio100"
@@ -15,7 +15,11 @@
 	"scripts": {
 		"start": "node index.js"
 	},
-	"keywords": ["JSON", "SORT", "jsonSorter"],
+	"keywords": [
+		"JSON",
+		"SORT",
+		"jsonSorter"
+	],
 	"license": "ISC",
 	"dependencies": {
 		"json-keys-sort": "^2.1.0"
