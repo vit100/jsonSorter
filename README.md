@@ -17,3 +17,7 @@ File to be sorted. Required.
 
 Output file, sorted input file. Optional. If no value provided output file name will have same name as Input-JSON-FILE with suffix ```_sorted```, i.e myFile_sorted.json
 
+
+### References
+Project based on awsome [json-keys-sort](https://www.npmjs.com/package/json-keys-sort).
+

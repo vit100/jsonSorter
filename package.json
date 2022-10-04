@@ -1,16 +1,23 @@
 {
-  "name": "json-sorter",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-keys-sort": "^2.1.0"
-  }
+	"name": "json-sorter",
+	"version": "1.0.0",
+	"description": "Utility to sort json files",
+	"main": "index.js",
+	"author": {
+		"name": "Vitaliy Markitanov",
+		"url": "https://twitter.com/basilio100"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vit100/jsonSorter"
+	},
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["JSON", "SORT", "jsonSorter"],
+	"license": "ISC",
+	"dependencies": {
+		"json-keys-sort": "^2.1.0"
+	}
 }
