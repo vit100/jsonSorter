@@ -1,5 +1,5 @@
 {
-	"name": "json-sorter",
+	"name": "@vit100/jsonsorter",
 	"version": "1.0.0",
 	"description": "Utility to sort json files",
 	"main": "index.js",
